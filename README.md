@@ -10,7 +10,7 @@ script that takes CSV file, transform it, and then load it into PostgreSQL datab
 Review of 10000 restaurant in the US [﻿source ](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews) 
 
 ### Data Output ER diagram:
-
+[﻿View on canvas](https://app.eraser.io/workspace/HptPNpxeyxhum3M7Ajt4?elements=Vk9RtRO61z9fPkHxmqHFtA) 
 
 ## Program Architecture
 
